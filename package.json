@@ -1,0 +1,22 @@
+{
+  "name": "devtree",
+  "version": "1.0.0",
+  "description": "Proyecto con Express y TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castellano17/DevTree.git"
+  },
+  "author": "Esmir Roque Castellano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castellano17/DevTree/issues"
+  },
+  "homepage": "https://github.com/castellano17/DevTree#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
